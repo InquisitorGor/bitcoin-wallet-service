@@ -224,9 +224,6 @@ The service includes health checks for all components:
 - **Database Health**: Built-in PostgreSQL health checks
 - **Kafka Health**: Built-in Kafka broker health checks
 
-## Troubleshooting
-
-
 ### Logs
 
 ```bash
