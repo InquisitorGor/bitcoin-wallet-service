@@ -1,0 +1,2 @@
+spring.embedded.kafka:
+  topics: wallet-topup-events
